@@ -7,8 +7,10 @@ The Roblox account manager for Windows.
 - **Anti-AFK** that nudges every Roblox window so nobody gets kicked for idling.
 - **Authenticator:** 2-step codes for your accounts, built in.
 - **Limiteds:** RAP, Rolimons value and value over time, with a daily scan.
-- **Communities and Games:** sales, revenue, launches, members, players and visits for what you own.
-- **Overview, streamer mode, a Discord bot and alerts,** and a guided tour of every page.
+- **UGC:** every item you and your communities made, on sale or not, with price, favorites, sales, profit and launches, and up to four items compared on one chart.
+- **Communities and Games:** revenue, funds, members, players and visits for what you own.
+- **Discord:** sale posts with the day's numbers, a weekly digest and daily recap with a picture, and a bot to control the app from your phone.
+- **Mini mode** (a small panel that stays on top of Roblox), **Ctrl+K** to jump anywhere, **Overview**, **streamer mode**, and a guided tour of every page.
 
 ## Download
 
