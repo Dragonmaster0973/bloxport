@@ -2,6 +2,8 @@
 
 The Roblox account manager for Windows.
 
+[![Join the Bloxport Discord](https://img.shields.io/badge/Discord-Join%20the%20server-5865F2?logo=discord&logoColor=white)](https://discord.gg/2FbPWCCsj2)
+
 - **Accounts:** add accounts by signing in, pasting cookies, or a whole `username:password` list (through your own Chrome with the Bloxport helper). Folders, colors, nicknames, tags and notes.
 - **Launching:** many accounts at once with multi-instance, launch groups and schedules, private servers, a game picker, auto-rejoin, and window tiling.
 - **Anti-AFK** that nudges every Roblox window so nobody gets kicked for idling.
@@ -19,6 +21,12 @@ Get **Bloxport Setup x.y.z.exe** from the [latest release](https://github.com/Dr
 ## Updates
 
 Bloxport checks this page for new versions. When one is out, **Update to x.y.z** shows in the sidebar; press it and the app installs the new version and restarts with your accounts and settings in place. Nothing is downloaded or installed until you press it.
+
+## Community
+
+Join the [Bloxport Discord](https://discord.gg/2FbPWCCsj2) for new versions, help, bug reports and suggestions.
+
+Only download Bloxport from this page's releases. Nobody from Bloxport will ever ask for your cookie, password or 2-step codes.
 
 ## Your data stays on your PC
 
